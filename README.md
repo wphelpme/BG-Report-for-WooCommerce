@@ -21,24 +21,7 @@ Generate a report with XML file according the Bulgarien Law. Export XML file by 
 * Export Complete orders.
 * Export Refunded orders.
 
-== Frequently Asked Questions ==
 
-Install via Plugins > Install New
-1. Search for "BG Report for WooCommerce"
-2. Click the "Install Now" link
-3. Click "Activate Plugin"
-
-= A question that someone might have =
-
-Install via Plugins > Install New
-1. Search for "BG Report for WooCommerce"
-2. Click the "Install Now" link
-3. Click "Activate Plugin"
-
-
-== Screenshots ==
-
-== Changelog ==
 
 = 1.1.0 =
 *Initial release of plugin - 16 December 2020*
