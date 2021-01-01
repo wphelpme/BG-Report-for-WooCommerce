@@ -1,4 +1,5 @@
 === BG Report for WooCommerce ===
+
 Contributors: tzemtz
 Tags: XML Export, BG, Export XML, Orders
 Requires at least: 1.1.1
