@@ -4,9 +4,9 @@ Contributors: tzemtz
 
 Tags: XML Export, BG, Export XML, Orders
 
-Requires at least: 1.1.1
+Requires at least: 1.1.2
 Tested up to: 5.6
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
